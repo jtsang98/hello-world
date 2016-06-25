@@ -1,3 +1,3 @@
 # hello-world
-for school homework/projects
-hello hello
+for school homework/projects;
+hello hello;
